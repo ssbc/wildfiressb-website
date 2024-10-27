@@ -15,12 +15,12 @@ layout: index
   </header>
 
 ## Problem Statement
-Wildfires are a growing global threat, intensified by climate change. South America, in particular, faces increasing risks, as many regions suffer from devastating fires year after year. Effective communication among firefighters and emergency responders is critical to managing and mitigating the impact of these wildfires. However, communication systems in remote areas often fail due to damaged infrastructure, lack of cellular coverage, or overwhelmed networks.
+Wildfires are a growing global threat, intensified by climate change. South America, in particular, faces increasing risks, as many regions suffer from devastating fires year after year. Effective communication among firefighters and emergency responders is critical to managing and mitigating the impact of these wildfires. However, communication systems in remote areas often fail due to damaged infrastructure, lack of cellular coverage, or overwhelmed networks. 
 
 In these critical moments, the lack of reliable communication can lead to delayed responses, poor coordination, and increased danger to both responders and civilians. Without effective coordination, resources are stretched thin, and decision-making becomes chaotic, worsening the situation.
 
 ## What We Seek to Do
-At WildfireSSB, our mission is to empower firefighters and first responders in South America with decentralized, resilient communication tools that work even in the absence of traditional infrastructure. We aim to equip emergency teams with the ability to communicate and coordinate effectively, no matter the circumstances. 
+At WildfireSSB, our mission is to empower firefighters and first responders in South America with decentralized, resilient communication tools that work even in the absence of traditional infrastructure. We aim to equip emergency teams with the ability to communicate and coordinate effectively, no matter the circumstances.
 
 To solve this, we are leveraging two key open-source technologies:
 
