@@ -11,7 +11,7 @@ It is built around the CSS boilerplate by Andy Bell and inspired by Andy's talk 
 
 If you want to know exactly how it all works, [read this article on piccalil.li](https://piccalil.li/blog/a-css-project-boilerplate/).
 
-The aim is to spread the idea and use of this _excellent_ workflow. To work with it efficiently you should be familiar with [cube.fyi](https://cube.fyi/), [utopia.fyi](https://utopia.fyi/) and [every-layout.dev](https://every-layout.dev/)
+The aim is to spread the idea and use of this _excellent_ workflow. To work with it efficiently you should be familiar with [cube.fyi](https://cube.fyi/), [utopia.fyi](https://utopia.fyi/) and [every-layout.dev](https://every-layout.dev/).
 
 - buildexcellentwebsit.es
 - Remix the original: https://glitch.com/edit/#!/remix/build-excellent-websites
