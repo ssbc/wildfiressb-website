@@ -15,7 +15,7 @@ layout: index
   </header>
 
 ## Problem Statement
-Wildfires are a growing global threat, intensified by climate change. South America, in particular, faces increasing risks, as many regions suffer from devastating fires year after year. Effective communication among firefighters and emergency responders is critical to managing and mitigating the impact of these wildfires. However, communication systems in remote areas often fail due to damaged infrastructure, lack of cellular coverage, or overwhelmed networks. 
+Wildfires are a growing global threat, intensified by climate change. South America, in particular, faces increasing risks, as many regions suffer from devastating fires year after year. Effective communication among firefighters and emergency responders is critical to managing and mitigating the impact of these wildfires. However, communication systems in remote areas often fail due to damaged infrastructure, lack of cellular coverage, or overwhelmed networks.
 
 In these critical moments, the lack of reliable communication can lead to delayed responses, poor coordination, and increased danger to both responders and civilians. Without effective coordination, resources are stretched thin, and decision-making becomes chaotic, worsening the situation.
 
@@ -38,7 +38,7 @@ TinySSB is a decentralized protocol that enables users to share data and message
 
 - Peer-to-peer: Devices communicate directly with each other over whatever means are available (bluetooth, wifi, lora), reducing reliance on external infrastructure.
 
-** falta imagen LoRa**
+**falta imagen LoRa**
 
 - Data synchronization: Teams can share maps, task lists, and critical updates, ensuring that everyone has access to the most up-to-date information, even offline.
 
