@@ -1,18 +1,4 @@
----
-title: WildfireSSB
-permalink: /index.html
-description: 'Eleventy Excellent is inspired bythe companion website of Andy Bell’s talk "Be the browser’s mentor, not its micromanager".'
-layout: index
----
-
-<div class="wrapper">
-  <header class="full | section" style="--spot-color: var(--color-primary)">
-    <div class="section__inner flow region">
-      <h1 class="text-center text-base-light">{{ title }}</h1>
-    </div>
-
-    {% svg "divider/waves", null, "seperator" %}
-  </header>
+# WirefireSSB Decentralized Communication for Wildfire Response
 
 ## Problem Statement
 Wildfires are a growing global threat, intensified by climate change. South America, in particular, faces increasing risks, as many regions suffer from devastating fires year after year. Effective communication among firefighters and emergency responders is critical to managing and mitigating the impact of these wildfires. However, communication systems in remote areas often fail due to damaged infrastructure, lack of cellular coverage, or overwhelmed networks.
