@@ -2,7 +2,9 @@
 
 # WildfireSSB: Decentralized Communication for Wildfire Response
 
+{:refdef: style="text-align: center;"}
 ![](img/Sk_fuQOxyl.png)
+{: refdef}
 
 ## Problem Statement
 
