@@ -1,4 +1,8 @@
-show_downloads: false
-remote_theme: jekyll/minima@2.5.2
+remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+minima:
+  skin: classic
+  social_links:
+  - { platform: github,         user_url: "https://github.com/ssbc/tinyssb" }
+  - { platform: x,              user_url: "https://x.com/wildfiressb" }
