@@ -2,8 +2,10 @@
 ![](img/Sk_fuQOxyl.png)
 {: refdef}
 
+# WildfireSSB: Decentralized Communication for Wildfire Response
+
 <div style="text-align: center;">
-  <a href="https://explorer.gitcoin.co/#/round/42161/608/115" class="button" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-decoration: none; border-radius: 5px;">**Support us through a donation on Gitcoin**</a>
+  <a href="https://explorer.gitcoin.co/#/round/42161/608/115" class="button" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-decoration: none; border-radius: 5px;">Support us through a donation on Gitcoin</a>
 </div>
 
 
