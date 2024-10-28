@@ -115,6 +115,6 @@ We need your support to make this project a reality! Here's how you can get invo
 - Spread the word: Share our project on social media, tell your friends, or write a blog post. Every bit of awareness helps.
 - Design and community engagement: Help us create educational resources, training materials, or work on UI/UX design to make the system easy to use.
 
-Together, we can make a real difference in the fight against wildfires, protecting both people and the environment.
+Together, we can make a real difference in the fight against wildfires, protecting both people and the environment.-
 
 Join us in building a resilient future for wildfire response! #gg22 #wildfire #tech #oss #p2p #ATAK
