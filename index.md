@@ -1,6 +1,8 @@
+![](img/HJTxaTPlkx.png)
+
 # WirefireSSB Decentralized Communication for Wildfire Response
 
-![](img/HJTxaTPlkx.png)
+![](img/Sk_fuQOxyl.png)
 
 ## Problem Statement
 Wildfires are a growing global threat, intensified by climate change. South America, in particular, faces increasing risks, as many regions suffer from devastating fires year after year. Effective communication among firefighters and emergency responders is critical to managing and mitigating the impact of these wildfires. However, communication systems in remote areas often fail due to damaged infrastructure, lack of cellular coverage, or overwhelmed networks.
@@ -20,24 +22,24 @@ Our goal is to adapt these technologies to the specific needs of firefighters in
 ## Technologies Involved
 ### TinySSB (Secure ScuttleButt)
 
-![tinySSB banner](/assets/images/gallery/tinySSB-banner.png)
+![tinySSB banner](img/tinySSB-banner.png)
 
 TinySSB is a decentralized protocol that enables users to share data and messages without needing an internet connection or centralized server. It is designed to work in low-bandwidth environments, making it ideal for use in remote areas or during network failures.
 
 - Peer-to-peer: Devices communicate directly with each other over whatever means are available (bluetooth, wifi, lora), reducing reliance on external infrastructure.
 
-**falta imagen LoRa**
+![LoRa banner](img/ryqfDXOl1l.jpg)
 
 - Data synchronization: Teams can share maps, task lists, and critical updates, ensuring that everyone has access to the most up-to-date information, even offline.
 
-![TAK](/assets/images/gallery/cropped-TAK-CIV-Splash-4.png)
+![TAK](img/cropped-TAK-CIV-Splash-4.png)
 
 ## ATAK (Android Team Awareness Kit)
 ATAK is a powerful situational awareness tool that helps emergency teams track resources, coordinate movements, and visualize the area in real time. Initially developed for military and first responders, it has been proven effective in wildfire response.
 
 - Real-time mapping: Teams can view fire perimeters, terrain, and responder locations on shared maps.
 
-** falta imagen ATAC**
+![mapa TAK](Hyf8IUJJke.png)
 
 - Coordination: Responders can exchange messages, share geolocated data, and track resources to optimize their efforts.
 
@@ -81,12 +83,12 @@ We stand on the shoulders of pioneers who have been experimenting with decentral
 
 - Luandro’s experiments with Meshtastic in the Amazon: Luandro has been testing the use of Meshtastic, a low-power, long-range communication protocol, in the remote Amazon region. His experiments offer invaluable insights into how decentralized communication can function in areas with little to no infrastructure:
 
-![map Meshtastic](/assets/images/gallery/mapa_meshtastic.jpeg)
+![map Meshtastic](img/e6e5ab575cd6c6a743bdea44c844e7ad4cb6594c_2_690x298.jpeg)
 https://meshtastic.discourse.group/t/meshtastic-to-connect-remote-villages-deep-in-the-amazon/2643/1
 
 - Nico Pace’s Meshtastic trials in the hills of Córdoba and with Luandro for Communities in the Amazon: Nico has been experimenting with Meshtastic to build reliable communication systems for firefighters and forest rangers in Argentina’s remote and wildfire-prone regions. His real-world testing helps inform our approach to integrating these tools with ATAK.
 
-**falta imagen**
+![boats](img/r1LJsXOlJe.png)
 https://nico.today/tracking-canoes-with-meshtastic/
 
 ## Who's involved
