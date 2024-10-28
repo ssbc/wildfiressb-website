@@ -46,7 +46,7 @@ ATAK is a powerful **situational awareness** tool that helps emergency teams tra
 
 - **Real-time mapping**: Teams can view fire perimeters, terrain, and responder locations on shared maps.
 
-![mapa TAK](Hyf8IUJJke.png)
+![mapa TAK](img/Hyf8IUJJke.png)
 
 - **Coordination**: Responders can exchange messages, share geolocated data, and track resources to optimize their efforts.
 
