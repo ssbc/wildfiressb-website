@@ -1,5 +1,3 @@
-![](img/HJTxaTPlkx.png)
-
 # WildfireSSB: Decentralized Communication for Wildfire Response
 
 {:refdef: style="text-align: center;"}
