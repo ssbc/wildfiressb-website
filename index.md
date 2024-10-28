@@ -1,8 +1,11 @@
-# WildfireSSB: Decentralized Communication for Wildfire Response
-
 {:refdef: style="text-align: center;"}
 ![](img/Sk_fuQOxyl.png)
 {: refdef}
+
+<div style="text-align: center;">
+  <a href="https://explorer.gitcoin.co/#/round/42161/608/115" class="button" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-decoration: none; border-radius: 5px;">**Support us through a donation on Gitcoin**</a>
+</div>
+
 
 ## Problem Statement
 
@@ -12,12 +15,12 @@ In these critical moments, the lack of reliable communication can lead to delaye
 
 ## What We Seek to Do
 
-At **WildfireSSB**, our mission is to empower firefighters and first responders in South America with **decentralized, resilient communication tools** that work even in the absence of traditional infrastructure. We aim to equip emergency teams with the ability to communicate and coordinate effectively, no matter the circumstances.
+**WildfireSSB** mission is to empower fire fighters and first responders in South America and beyond with **decentralized, resilient communication tools** that work even in the absence of traditional infrastructure. We aim to equip emergency teams with the ability to communicate and coordinate effectively, no matter the circumstances.
 
 To solve this, we are leveraging two key open-source technologies:
 
 1. **TinySSB (Secure ScuttleButt)**: A peer-to-peer communication protocol that allows devices to sync and share critical data without needing a centralized server or internet connection.
-2. **ATAK (Android Team Awareness Kit)**: A situational awareness platform already used by U.S. firefighters to map fire perimeters, share real-time data, and coordinate team movements.
+2. **ATAK (Android Team Awareness Kit)**: A mature situational awareness platform already used by U.S. firefighters to map fire perimeters, share real-time data, and coordinate team movements.
 
 Our goal is to adapt these technologies to the specific needs of firefighters in South America, enabling **peer-to-peer communication, secure data sharing, and real-time situational awareness** in even the most remote or fire-affected areas.
 
@@ -38,7 +41,7 @@ Our goal is to adapt these technologies to the specific needs of firefighters in
 ![TAK](img/cropped-TAK-CIV-Splash-4.png)
 
 ### ATAK (Android Team Awareness Kit)
-ATAK is a powerful **situational awareness** tool that helps emergency teams track resources, coordinate movements, and visualize the area in real time. Initially developed for military and first responders, it has been proven effective in **wildfire response**.
+ATAK is a powerful **situational awareness** tool that helps emergency teams track resources, coordinate movements, and visualize the area in real time. Initially developed for military, it has been proven effective in **wildfire response**  and first responders.
 
 - **Real-time mapping**: Teams can view fire perimeters, terrain, and responder locations on shared maps.
 
@@ -50,7 +53,7 @@ By combining **TinySSB’s decentralized communication** with **ATAK’s situati
 
 ## Architecture Description
 
-Our solution is based on **device-to-device (D2D) communication** using TinySSB, where each firefighter or responder is equipped with a smartphone or tablet running both TinySSB and ATAK. Here’s how it works:
+Our approach is based on **device-to-device (D2D) communication** using TinySSB, where each firefighter or responder is equipped with a smartphone or tablet running both TinySSB and ATAK. Here’s how it works:
 
 1. **Peer-to-peer network**: In the field, devices create a mesh network through TinySSB, allowing direct communication between nearby responders. No internet or cellular network is needed.
 2. **Situational awareness with ATAK**: Responders use ATAK to visualize the environment, track fire perimeters, and share real-time data (such as locations and status updates) with their peers.
@@ -61,7 +64,7 @@ This **distributed architecture** ensures that teams can continue their work uni
 
 ## What Is Our Next Step
 
-We are currently developing and testing our system with local firefighting teams in Argentina. Our immediate next step is to:
+We are currently designing the system with local firefighting teams in Argentina. Our immediate next step is to:
 
 1. **Launch a pilot project**: We plan to deploy this system with local fire departments to gather real-world feedback, refine the tools, and demonstrate their effectiveness in combating wildfires.
 2. **Expand community involvement**: working with open-source contributors, designers, and local communities to create educational materials, develop additional features, and ensure widespread adoption.
@@ -88,7 +91,7 @@ We stand on the shoulders of pioneers who have been experimenting with decentral
 
 - **[Christian F Tschudin](https://github.com/tschudin), [Mix Irving](https://github.com/mixmix), and [Nanomonkey](https://github.com/nanomonkey)'s work with TinySSB**: These three core contributors to the SecureScuttleButt ecosystem have been instrumental in developing TinySSB, a lightweight version of SSB designed for low-bandwidth, intermittent connections. Their work is the backbone of WildfireSSB.
   
-- **[Luandro](https://github.com/luandro/)’s experiments with Meshtastic in the Amazon**: Luandro has been testing the use of Meshtastic, a low-power, long-range communication protocol, in the remote Amazon region. His experiments offer invaluable insights into how decentralized communication can function in areas with little to no infrastructure:
+- **[Luandro Viera](https://github.com/luandro/)’s experiments with Meshtastic in the Amazon**: Luandro has been testing the use of Meshtastic, a low-power, long-range communication protocol, in the remote Amazon region. His experiments offer invaluable insights into how decentralized communication can function in areas with little to no infrastructure:
  
 ![map Meshtastic](img/e6e5ab575cd6c6a743bdea44c844e7ad4cb6594c_2_690x298.jpeg)
 https://meshtastic.discourse.group/t/meshtastic-to-connect-remote-villages-deep-in-the-amazon/2643/1
@@ -110,9 +113,9 @@ Our team is composed of individuals with deep expertise in decentralized technol
 
 ## Marketing
 
-We've developed a range of **marketing assets** to help spread the word about **WildfireSSB** and its mission to improve wildfire response in remote regions through open-source technology.
+If you think this idea is worth spreading, we've developed a range of **marketing assets** that you can use to share about **WildfireSSB**'s mission to improve wildfire response in remote regions through open-source technology.
 
-In this google drive you will find [our marketing assets](https://drive.google.com/drive/folders/1hC3ciOXWQaMKo56y4kgFO1V1ObuJ24Vg?usp=sharing) to download:
+In this Google Drive you will find [our marketing assets](https://drive.google.com/drive/folders/1hC3ciOXWQaMKo56y4kgFO1V1ObuJ24Vg?usp=sharing) to download:
 
 - Social media graphics (for Twitter, Instagram, and Facebook)
 - Videos showcasing how the technology works
